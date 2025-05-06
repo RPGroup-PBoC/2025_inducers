@@ -31,4 +31,4 @@ This directory contains all Jupyter notebooks used to model input signal respons
 1. Feed forward (Figs. 21, 22, 24, 25)
 2. SI: Appendix Figs. 34-36
 
-Each .ipynb notebook outputs .pdf files for results that were used to generate the final figures seen in the paper.
+Each .ipynb notebook outputs .pdf files for results that were used to generate the final figures seen in the paper. 
