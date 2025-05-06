@@ -2,7 +2,7 @@
 
 This repository contains supporting code for:
 
-- Yang Z, Rousseau RJ, Mahdavi S, Garcia HG, Phillips R. The dynamics of inducible genetic circuits. *In preparation* (2025)
+- Yang Z, Rousseau RJ, Mahdavi SD, Garcia HG, Phillips R. The dynamics of inducible genetic circuits. *In preparation* (2025)
 
 The contents of the repository were used to generate the results found in figures throughout this paper. This work evaluates the dynamics of self-activation, mutual repression, and feed-forward loop in gene regulation as a function of allosteric effector concentration, and explores parameter sensitivity in each of these model systems.
 
@@ -31,4 +31,4 @@ This directory contains all Jupyter notebooks used to model input signal respons
 1. Feed forward (Figs. 21, 22, 24, 25)
 2. SI: Appendix Figs. 34-36
 
-Each .ipynb notebook outputs .pdf files for results that were used to generate the final figures seen in the paper.
+Each .ipynb notebook outputs .pdf files for results that were used to generate the final figures seen in the paper. 
