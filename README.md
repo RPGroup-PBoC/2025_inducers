@@ -4,7 +4,7 @@ This repository contains supporting code for:
 
 - Yang Z*, Rousseau RJ*, Mahdavi SD*, Garcia HG, Phillips R. The Dynamics of Inducible Genetic Circuits. *In preparation* (2025)
 
-The contents of the repository were used to generate the results found in figures throughout this paper. This work evaluates the dynamics of self-activation, mutual repression, and feed-forward loop in gene regulation as a function of allosteric effector concentration, and explores parameter sensitivity in each of these model systems.
+The contents of the repository were used to generate the results found in figures throughout this paper. This work evaluates the dynamics of self-activation, mutual repression, and feed-forward loops in gene regulation as a function of allosteric effector concentration, and explores parameter sensitivity in each of these model systems.
 
 ## Layout
 ---
